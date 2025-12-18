@@ -29,10 +29,10 @@
 
 ## 関連ドキュメント
 
-- [討論記録（debate_log.md）](debate_log.md) - 全討論内容の詳細記録
-- [討論計画（plan.md）](plan.md) - 討論の進行計画
 - [肯定派の事前調査（positions/affirmative.md）](positions/affirmative.md) - 肯定派の基本主張
 - [否定派の事前調査（positions/negative.md）](positions/negative.md) - 否定派の基本主張
+- [討論計画（plan.md）](plan.md) - 討論の進行計画
+- [討論記録（debate_log.md）](debate_log.md) - 全討論内容の詳細記録
 
 ---
 
