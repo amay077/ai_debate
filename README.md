@@ -6,7 +6,7 @@
 
 | テーマ | ディレクトリ | 状態 |
 |--------|-------------|------|
-| 論理削除（削除フラグ）の是非 | [20251218_logical-deletion/](20251218_logical-deletion/) | 完了 |
+| 論理削除（削除フラグ）の是非 | [20251218_logical-deletion/](20251218_logical-deletion/index.md) | 完了 |
 
 ## 使い方
 
@@ -49,17 +49,17 @@
 ├── README.md                      # このファイル
 ├── _template/                     # テンプレート
 │   ├── README.md
+│   ├── index.md
 │   ├── plan.md
 │   ├── debate_log.md
-│   ├── result.md
 │   └── positions/
 │       ├── affirmative.md
 │       └── negative.md
 │
 └── YYYYMMDD_{topic-name}/         # 各ディベート
+    ├── index.md                   # 概要・結果（エントリポイント）
     ├── plan.md
     ├── debate_log.md
-    ├── result.md
     └── positions/
         ├── affirmative.md
         └── negative.md

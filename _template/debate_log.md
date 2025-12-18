@@ -121,4 +121,4 @@
 
 *討論終了: YYYY 年 MM 月 DD 日*
 
-**判定結果**: [result.md](result.md) を参照
+**判定結果**: [index.md](index.md) を参照
