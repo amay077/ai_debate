@@ -51,6 +51,7 @@
 │   ├── README.md
 │   ├── plan.md
 │   ├── debate_log.md
+│   ├── result.md
 │   └── positions/
 │       ├── affirmative.md
 │       └── negative.md
@@ -58,6 +59,7 @@
 └── YYYYMMDD_{topic-name}/         # 各ディベート
     ├── plan.md
     ├── debate_log.md
+    ├── result.md
     └── positions/
         ├── affirmative.md
         └── negative.md
