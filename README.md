@@ -6,15 +6,15 @@
 
 | テーマ | ディレクトリ | 状態 |
 |--------|-------------|------|
-| 論理削除（削除フラグ）の是非 | [logical-deletion/](logical-deletion/) | 完了 |
+| 論理削除（削除フラグ）の是非 | [20251218_logical-deletion/](20251218_logical-deletion/) | 完了 |
 
 ## 使い方
 
 ### 新規ディベートの作成
 
-1. `_template/` ディレクトリをコピーして新しいテーマ名でリネーム
+1. `_template/` ディレクトリをコピーして `YYYYMMDD_テーマ名` でリネーム
    ```bash
-   cp -r _template/ new-topic-name/
+   cp -r _template/ 20251225_new-topic-name/
    ```
 
 2. 各ファイルのプレースホルダーを置換
@@ -45,9 +45,9 @@
 ## ディレクトリ構成
 
 ```
-debates/
-├── README.md           # このファイル
-├── _template/          # テンプレート
+.
+├── README.md                      # このファイル
+├── _template/                     # テンプレート
 │   ├── README.md
 │   ├── plan.md
 │   ├── debate_log.md
@@ -55,7 +55,7 @@ debates/
 │       ├── affirmative.md
 │       └── negative.md
 │
-└── {topic-name}/       # 各ディベート
+└── YYYYMMDD_{topic-name}/         # 各ディベート
     ├── plan.md
     ├── debate_log.md
     └── positions/
