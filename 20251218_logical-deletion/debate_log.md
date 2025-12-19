@@ -234,6 +234,6 @@ deleted_at、deleted_by、deletion_reasonのカラム追加は、本来のビジ
 
 ---
 
-*討論終了: 2024 年 12 月 18 日*
+*討論終了: 2025 年 12 月 18 日*
 
 **判定結果**: [index.md](index.md) を参照
